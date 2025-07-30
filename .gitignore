@@ -1,5 +1,5 @@
 # Maven target directory
-/target/
+target/**
 
 # Maven specific files
 pom.xml.tag
