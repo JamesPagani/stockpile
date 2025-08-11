@@ -1,5 +1,5 @@
 package dev.jamespagani.persistence;
 
-public class MovementDAO {
+public class TransactionDAO {
     
 }

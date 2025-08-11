@@ -1,5 +1,5 @@
 package dev.jamespagani.persistence;
 
-public class ThirdPartyDAO {
+public class ContactDAO {
     
 }

@@ -1,6 +1,6 @@
 package dev.jamespagani.services;
 
-public class ThirdPartyService {
+public class TransactionService {
 
     
 }
